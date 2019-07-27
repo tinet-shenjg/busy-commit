@@ -6,4 +6,4 @@
 2019.07.19
 十渡一日遭罪游    
 2019.07.22
-研究策略模式和工厂模式实现业务上的需求，后续会出相关的文章来分享
+研究[策略模式](https://github.com/tinet-shenjg/JavaInterview/blob/master/designPattern/strategy.md)和工厂模式实现业务上的需求，后续会出相关的文章来分享
