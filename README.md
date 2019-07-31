@@ -8,4 +8,6 @@
 2019.07.22
 研究[策略模式](https://github.com/tinet-shenjg/JavaInterview/blob/master/designPattern/strategy.md)和工厂模式实现业务上的需求，后续会出相关的文章来分享    
 2019.07.28
-休息一天 
+休息一天     
+2019.07.31
+对接搜狐媒体，心累，接口一万年调不通，又一次对搜狐的研发不是很感冒
